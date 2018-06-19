@@ -1,0 +1,7 @@
+python2.7 0XRaytoContour.py 2APinnerSegment.jpg X_ray_APinnercontour
+python2.7 0XRaytoContour.py 2LAT2innerSegment.jpg X_ray_MLinnercontour
+
+python2.7 0XRaytoContour.py 3APouterSegment.jpg X_ray_APoutercontour
+python2.7 0XRaytoContour.py 3LAT2outerSegment.jpg X_ray_MLoutercontour
+
+python3 0txtToData.py

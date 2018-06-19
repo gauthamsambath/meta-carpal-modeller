@@ -1,0 +1,7 @@
+echo "# meta-carpal-modeller" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GadbadModelling/meta-carpal-modeller.git
+git push -u origin master
+
